@@ -1,0 +1,68 @@
+{
+	"classtype": "kSystemtable",
+	"internalversion": 4,
+	"iconversion": 23,
+	"nextident": 21,
+	"properties": {
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2017-01-10 10:47:24",
+		"desc": "",
+		"external": false,
+		"moddate": "2012-02-28 14:58:39",
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": "1"
+	},
+	"iconids": [
+		{
+			"iconid": 111113,
+			"pageid": 5,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111114,
+			"pageid": 5,
+			"iconpos": 2,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111115,
+			"pageid": 5,
+			"iconpos": 3,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111116,
+			"pageid": 5,
+			"iconpos": 4,
+			"defaultsize": 1,
+			"flags": 0
+		}
+	],
+	"pages": [
+		{
+			"pageid": 5,
+			"name": "Switches",
+			"bitmapid": 2,
+			"flags": 1802
+		}
+	],
+	"bitmaps": [
+		{
+			"bitmapid": 1
+		},
+		{
+			"bitmapid": 2,
+			"solid": {
+				"$png": "solid2.png"
+			},
+			"alpha": {
+				"$png": "alpha2.png"
+			}
+		}
+	]
+}

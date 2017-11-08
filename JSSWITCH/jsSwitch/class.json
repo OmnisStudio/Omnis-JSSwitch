@@ -1,0 +1,115 @@
+{
+	"classtype": "kRemoteForm",
+	"internalversion": 3,
+	"designtaskname": "rtRemoteTask",
+	"nextident": 1015,
+	"lastgroupident": 0,
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+		{
+			"name": "iSwitch1",
+			"order": 2,
+			"type": "kBoolean",
+			"subtype": 0,
+			"sublen": 0
+		},
+		{
+			"name": "iSwitch1Label",
+			"order": 5,
+			"type": "kCharacter",
+			"subtype": "kSimplechar",
+			"sublen": 100000000,
+			"initval": "'kFalse'"
+		},
+		{
+			"name": "iSwitch2",
+			"order": 3,
+			"type": "kBoolean",
+			"subtype": 0,
+			"sublen": 0
+		},
+		{
+			"name": "iSwitch2Label",
+			"order": 1,
+			"type": "kCharacter",
+			"subtype": "kSimplechar",
+			"sublen": 100000000,
+			"initval": "'kFalse'"
+		},
+		{
+			"name": "iSwitch3",
+			"order": 4,
+			"type": "kBoolean",
+			"subtype": 0,
+			"sublen": 0
+		},
+		{
+			"name": "iSwitch3Label",
+			"order": 6,
+			"type": "kCharacter",
+			"subtype": "kSimplechar",
+			"sublen": 100000000,
+			"initval": "'kFalse'"
+		}
+	],
+	"properties": {
+		"aligntogrid": false,
+		"alpha": 255,
+		"alwaysenabledobject": "",
+		"animatelayouttransitions": false,
+		"backalpha": 255,
+		"backcolor": "RGB(255,255,255)",
+		"backpattern": 0,
+		"cancelkeyobject": "",
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"contextmenu": "",
+		"createdate": "2017-01-10 10:47:42",
+		"currentlayoutbreakpoint": 600,
+		"defaultappearance": "kAppearanceiOS",
+		"desc": "111139",
+		"designshowmobiletitle": true,
+		"disabledefaultcontextmenu": false,
+		"editor": "",
+		"editordata": "",
+		"events": "",
+		"external": true,
+		"forecolor": "RGB(255,255,255)",
+		"horzgrid": 8,
+		"horzscroll": false,
+		"inheritedorder": 1,
+		"issupercomponent": false,
+		"layoutbreakpoints": "310,600",
+		"layouttype": "kLayoutTypeResponsive",
+		"left": 283,
+		"moddate": "2016-11-03 15:38:56",
+		"okkeyobject": "",
+		"serverlessclient": false,
+		"showascheckedout": false,
+		"showgrid": false,
+		"sizetogrid": false,
+		"startfield": 0,
+		"title": {
+			"type": 0,
+			"calc": "Switch"
+		},
+		"top": 77,
+		"userinfo": "",
+		"version": "1",
+		"vertgrid": 8,
+		"vertscroll": false
+	},
+	"layout": {
+		"width": 916,
+		"height": 586,
+		"310": {
+			"height": 500
+		},
+		"600": {
+			"height": 500
+		}
+	}
+}

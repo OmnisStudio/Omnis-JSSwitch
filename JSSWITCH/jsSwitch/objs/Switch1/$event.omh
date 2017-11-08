@@ -1,0 +1,2 @@
+On evClick
+	Calculate iSwitch1Label as pick(iSwitch1=kTrue,'kFalse','kTrue')
